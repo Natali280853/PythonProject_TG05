@@ -1,26 +1,15 @@
 # PythonProject_TG05
 
-TG05. Работа с внешними API
 
 Домашнее задание к уроку TG05. Работа с внешними API
 
-Для этого задания запускать файл mainTG04_dz.py
+Для этого задания запускать файл __city.py__
 
+<br><br>
+Для проекта необходимы: 
 
-TG01. Знакомство с библиотекой aiogram. Основы работы с API Telegram
+<li>Python 3.12 
 
-файл main.py
+<li>pip install aiogram googletrans==4.0.0-rc1
 
-TG02. Обработка входящих сообщений от пользователей и отправка текста и мультимедийных файлов
-
-файл new.py
-
-TG03. Интеграция баз данных
-
-файл weat_bot.py
-
-TG04. Реализация меню и кнопок. Работа с интерфейсом
-
-файл mainTG04_dz.py
-
-Установить: pip install aiogram
+<li># Получите API ключ** на [RapidAPI](https://rapidapi.com/wirefreethought/api/geodb-cities/) для использования GeoDB.
